@@ -41,7 +41,8 @@ ax.plot(x, y, lw=3, label='line')
 
 ax.scatter()  
 ```python
-ax.scatter(X, Y, s=200, color='red', zorder=3)  
+ax.scatter(X, Y, s=200, color='red', zorder=3)
+```  
 - s = marker size  
 - zorder = drawing order (larger -> drawn above)  
 
